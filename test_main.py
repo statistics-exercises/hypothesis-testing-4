@@ -1,5 +1,5 @@
 import unittest
-import scipy.stats as st
+import inspect
 from main import *
 
 class UnitTests(unittest.TestCase) :
